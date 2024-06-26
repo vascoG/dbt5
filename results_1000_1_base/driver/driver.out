@@ -1,0 +1,26 @@
+dbt5 - Driver Customer Emulator Main
+Using the following settings:
+
+Input files location: /home/vasco/egen/flat_in
+
+Brokerage House address: localhost
+Brokerage House port: 30000
+
+Configured customer count: 1000
+Active customer count: 1000
+Days of initial trades: 1
+Scale Factor: 1
+
+User Threads: 1
+Sleep between creating users: 1000
+
+Test duration (sec): 300
+Pacing Delay (msec): 0
+
+Unique ID (seed): 0
+initializing data maintenance...
+Error: Can't connect to server socket at CBaseInterface::talkToSUT 
+
+Running Trade-Cleanup transaction before starting the test...
+
+Error -1: Can't connect to server socket at 

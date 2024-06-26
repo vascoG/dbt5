@@ -1,0 +1,14 @@
+EGenLoader (EGen v1.14.0) 0 2024-05-16 10:24:15.387 DM object constructed using constructor 1 (valid for publication: YES).
+EGenLoader (EGen v1.14.0) 0 2024-05-16 10:24:15.387 Driver Global Settings:
+Parameter                               Default	Current	Default?
+Configured Customers:                   5000	1000
+Active Customers:                       5000	1000
+Scale Factor:                           500	1	NO
+Days of Initial Trades:                 300	1	NO
+
+EGenLoader (EGen v1.14.0) 0 2024-05-16 10:24:15.387 Driver DM Settings:
+Parameter                               Value
+Unique ID:                              219066
+RNGSeed:                                6589219777619908538
+
+EGenLoader (EGen v1.14.0) 0 2024-05-16 10:24:20.390 DM object destroyed.
